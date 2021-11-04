@@ -1,0 +1,24 @@
+{
+  "id": "did:web:l-ra.github.io:contact-me",
+  "alsoKnownAs": "did:web:id.r73.info:u:lra",
+  "authentication": [
+    {
+      "id": "did:web:id.r73.info:u:lra#key-1"
+    }
+  ],
+  "capabilityInvocation": [
+    {
+      "id": "did:web:id.r73.info:u:lra#key-1"
+    }
+  ],
+  "capabilityDelegation": [
+    {
+      "id": "did:web:id.r73.info:u:lra#key-1"
+    }
+  ],
+  "assertionMethod": [
+    {
+      "id": "did:web:id.r73.info:u:lra#key-1"
+    }
+  ]
+}
