@@ -6,5 +6,5 @@ My identity:
 
 
 # test
-(openid-credential-offer://?credential_offer_uri=https%3A%2F%2Fpacov.city)[credential offer]
+[cred offer](openid-credential-offer://?credential_offer_uri=https%3A%2F%2Fpacov.city(
 
